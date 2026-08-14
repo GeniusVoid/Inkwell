@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Quill / Fountain pen nib motif with warm amber and ivory highlights -->
+    <!-- Manuscript Book Base -->
+    <path
+        android:fillColor="#D8A45F"
+        android:pathData="M32,68 C32,68 40,64 54,64 C68,64 76,68 76,68 L76,73 C76,73 68,69 54,69 C40,69 32,73 32,73 Z" />
+    <!-- Pen Nib Outline -->
+    <path
+        android:fillColor="#F4E8D1"
+        android:pathData="M54,28 L67,50 C67,50 63,58 54,58 C45,58 41,50 41,50 Z" />
+    <!-- Pen Nib Core Inset & Ink Channel -->
+    <path
+        android:fillColor="#1C1815"
+        android:pathData="M54,34 L54,49 M52,49 A2,2 0 1,0 56,49 A2,2 0 1,0 52,49"
+        android:strokeWidth="1.5"
+        android:strokeColor="#1C1815" />
+    <!-- Gold accent collar -->
+    <path
+        android:fillColor="#D8A45F"
+        android:pathData="M44,57 L64,57 L62,62 L46,62 Z" />
+    <path
+        android:fillColor="#8C6534"
+        android:pathData="M46,62 L62,62 L60,65 L48,65 Z" />
+</vector>

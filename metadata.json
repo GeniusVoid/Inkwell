@@ -1,0 +1,6 @@
+{
+  "name": "Inkwell",
+  "description": "Minimal distraction-free writing app for webnovel writers with offline storage, custom typography, focus mode, and manual Google Drive versioned backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
